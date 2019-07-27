@@ -33,3 +33,4 @@ Now that you have the chef-repo ready to go, check out [Learn Chef](https://lear
 this is the END.
 END1
 END2
+syntaxcache
