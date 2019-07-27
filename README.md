@@ -35,4 +35,3 @@ END1
 END2
 syntaxcache
 testme
-syntaxcache
