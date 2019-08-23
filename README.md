@@ -45,4 +45,20 @@ Docker
 - Docker Registry: https://hub.docker.com
 - Docker Documentation: https://docs.docker.com
 - Docker Community Edition(Ubuntu) Installation Instruction: https://docs.docker.com/install/linux/docker-ce/ubuntu/
-- 
+- `docker images`
+- `docker ps`
+- `docker run <image> <command>`
+
+- `docker built .`
+- `docker built -t <repo-name>`
+- `docker inspect <runing-container-id>`
+- `docker logs <runing-container-id>`
+- Install Docker-compose: https://docs.docker.com/compose/install/
+
+
+
+
+
+
+
+
