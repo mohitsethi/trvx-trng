@@ -52,8 +52,13 @@ Docker
 - `docker built .`
 - `docker built -t <repo-name>`
 - `docker inspect <runing-container-id>`
-- `docker logs <runing-container-id>`
+- `docker logs -f <runing-container-id>`
 - Install Docker-compose: https://docs.docker.com/compose/install/
+- Clone git repo: https://github.com/mohitsethi/twitter-analysis
+- Run `docker-compose ps`
+- Run `docker-compose up`
+
+
 
 
 
